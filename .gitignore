@@ -1,0 +1,8 @@
+.stack-work/
+solarpiskell.cabal
+*~
+
+.idea
+.vscode
+
+*.DS_Store
