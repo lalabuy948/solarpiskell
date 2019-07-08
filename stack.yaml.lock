@@ -11,6 +11,13 @@ packages:
       sha256: af23930fcb90dbefb7b7c97ddb32b7103838d4a25fff6686b2294642e36019de
   original:
     hackage: scotty-0.11.4
+- completed:
+    hackage: aeson-1.4.3.0@sha256:49f92cd7bd5e9bb447f0f284785e725f5bebc798ca60baa5438d0eaaece28399,6899
+    pantry-tree:
+      size: 40192
+      sha256: 6eaaa178d81eb004ef60cefbb029b9758470656edabaefc439a43bffbb41bcef
+  original:
+    hackage: aeson-1.4.3.0
 snapshots:
 - completed:
     size: 500539

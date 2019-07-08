@@ -37,7 +37,7 @@ packages:
 
 extra-deps:
   - scotty-0.11.4
-#  - aeson-1.4.4.0
+  - aeson-1.4.3.0
 
 # - acme-missiles-0.3
 # - git: https://github.com/commercialhaskell/stack.git

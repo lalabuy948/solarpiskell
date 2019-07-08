@@ -36,7 +36,7 @@ executables:
     dependencies:
     - solarpiskell
     - scotty
-#    - aeson
+    - aeson
 
 tests:
   solarpiskell-test:
