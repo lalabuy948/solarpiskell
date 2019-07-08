@@ -2,6 +2,9 @@
 
 module Main where
 
+import Data.Monoid ((<>))
+import Data.Aeson (FromJSON, ToJSON)
+import GHC.Generics
 import Web.Scotty
 
 routes :: ScottyM ()
