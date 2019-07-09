@@ -24,6 +24,8 @@ dependencies:
 
 library:
   source-dirs: src
+  dependencies:
+    - aeson
 
 executables:
   solarpiskell-exe:
@@ -36,7 +38,7 @@ executables:
     dependencies:
     - solarpiskell
     - scotty
-#    - aeson
+    - aeson
 
 tests:
   solarpiskell-test:
