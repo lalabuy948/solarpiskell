@@ -39,8 +39,8 @@ extra-deps:
   - scotty-0.11.4
   - aeson-1.4.3.0
 
-# docker:
-#   enable: true
+docker:
+  enable: true
 
 # - acme-missiles-0.3
 # - git: https://github.com/commercialhaskell/stack.git

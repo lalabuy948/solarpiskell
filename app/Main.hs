@@ -23,5 +23,5 @@ routes = do
     json (filter (matchesId id) allSolarObjects)
 
 main = do
-    putStrLn "Starting Server on localhost:3000 ..."
-    scotty 3000 routes
+    putStrLn "Starting Server on localhost:8080 ..."
+    scotty 8080 routes
