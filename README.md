@@ -1,4 +1,4 @@
-# \-> Solarpiskell
+# \\-> Solarpiskell
 
 ```
 Simple solar system api written in haskell
